@@ -1,0 +1,19 @@
+{
+  "name": "internal-errors",
+  "version": "1.0.0",
+  "description": "A standalone implementation of Node.js core internal/errors",
+  "main": "errors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasnell/internal-errors.git"
+  },
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasnell/internal-errors/issues"
+  },
+  "homepage": "https://github.com/jasnell/internal-errors#readme"
+}
